@@ -9,12 +9,12 @@
   import Registration from './components/Registration.vue';
   import Registrations from './components/Registrations.vue';
 
-export default {
-    components: {
-        appRegistration: Registration,
-        appRegistrations: Registrations
-    }
-}
+  export default {
+      components: {
+          appRegistration: Registration,
+          appRegistrations: Registrations
+      }
+  }
 </script>
 
 <style>
